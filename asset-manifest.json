@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/lambdaah.github.io/static/css/main.e22eadbe.chunk.css",
+    "main.js": "/lambdaah.github.io/static/js/main.a39b673d.chunk.js",
+    "main.js.map": "/lambdaah.github.io/static/js/main.a39b673d.chunk.js.map",
+    "runtime-main.js": "/lambdaah.github.io/static/js/runtime-main.27068705.js",
+    "runtime-main.js.map": "/lambdaah.github.io/static/js/runtime-main.27068705.js.map",
+    "static/js/2.1e308356.chunk.js": "/lambdaah.github.io/static/js/2.1e308356.chunk.js",
+    "static/js/2.1e308356.chunk.js.map": "/lambdaah.github.io/static/js/2.1e308356.chunk.js.map",
+    "index.html": "/lambdaah.github.io/index.html",
+    "precache-manifest.1197eca2c5bf7d0b0329c6b4f5651b32.js": "/lambdaah.github.io/precache-manifest.1197eca2c5bf7d0b0329c6b4f5651b32.js",
+    "service-worker.js": "/lambdaah.github.io/service-worker.js",
+    "static/css/main.e22eadbe.chunk.css.map": "/lambdaah.github.io/static/css/main.e22eadbe.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.27068705.js",
+    "static/js/2.1e308356.chunk.js",
+    "static/css/main.e22eadbe.chunk.css",
+    "static/js/main.a39b673d.chunk.js"
+  ]
+}
